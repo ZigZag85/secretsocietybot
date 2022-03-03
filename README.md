@@ -5,7 +5,7 @@ All Errors are now fixed and the bot is working fine..
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BruceWayne175/secretsocietybot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zigzag85/secretsocietybot.git)
 
 A Modular Group management Bot on Sinhala
 
